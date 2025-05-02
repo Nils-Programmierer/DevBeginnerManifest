@@ -1,0 +1,26 @@
+{
+    "theme_color": "#212ff8",
+    "background_color": "#82c7ff",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "img/icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "img/icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "de",
+    "name": "DevBeginner",
+    "short_name": "DevBeginner",
+    "start_url": "/DevBeginner/index.html",
+    "description": "Hier findest du Tipps, Erklärungen und Informationen zu verschiedenen Themen aus der Welt der Programmierung und dies alles kostenlos und ohne Werbung! Egal ob du gerade erst anfängst oder schon ein etwas erfahrener Entwickler bist, hier ist für jeden etwas dabei. Viel Spaß beim Stöbern!"
+}
