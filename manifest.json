@@ -21,6 +21,7 @@
     "lang": "de",
     "name": "DevBeginner",
     "short_name": "DevBeginner",
-    "start_url": "/DevBeginner/index.html",
+    "scope": "https://devbeginner.free.nf/",
+    "start_url": "https://devbeginner.free.nf/index.html",
     "description": "Hier findest du Tipps, Erklärungen und Informationen zu verschiedenen Themen aus der Welt der Programmierung und dies alles kostenlos und ohne Werbung! Egal ob du gerade erst anfängst oder schon ein etwas erfahrener Entwickler bist, hier ist für jeden etwas dabei. Viel Spaß beim Stöbern!"
 }
